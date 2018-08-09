@@ -1,0 +1,19 @@
+body{
+    border: 15px solid gray;
+    padding: 1em;
+    margin: 20%;
+}
+
+.date{
+    padding-top: 6px;
+    color: lightblue;
+
+}
+
+p{
+    padding: 0em 1em 0em 1em;
+    margin: 1em 0em;
+}
+.quote{
+    border-left: 3px solid gray;
+}
